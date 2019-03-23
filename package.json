@@ -34,8 +34,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm run lint:fix",
-      "pre-push": "npm lint:fix"
+      "pre-commit": "npm run lint:fix"
     }
   },
   "xo": {

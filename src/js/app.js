@@ -1,4 +1,7 @@
-/* eslint-disable  import/extensions import/no-unassigned-import no-new */
+/* eslint-disable import/extensions */
+/* eslint-disable import/no-unassigned-import */
+/* eslint-disable no-new */
+
 // Import Vue
 import Vue from 'vue'
 
